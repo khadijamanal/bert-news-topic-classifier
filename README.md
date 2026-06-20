@@ -43,4 +43,3 @@ The model is trained using the Hugging Face Transformers library and evaluated u
 ## Results
 The model successfully classifies news headlines into their respective categories and is evaluated using standard classification metrics.
 
-l
